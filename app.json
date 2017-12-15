@@ -1,0 +1,19 @@
+{
+    "name": "Red Magician",
+    "description": "A Discord bot written in Python. I has been ported to the Heroku platform.",
+    "image": "heroku/python",
+    "repository": "https://github.com/dealien/Red-Magician",
+    "keywords": ["discord", "python", "bot"],
+    "addons": ["heroku-postgresql"],
+    "environments":
+    {
+        "test":
+        {
+            "scripts":
+            {
+                "test-setup": "python manage.py collectstatic --noinput",
+                "test": "python manage.py test"
+            }
+        }
+    }
+}

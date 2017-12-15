@@ -1,0 +1,223 @@
+2017-12-14 17:24:18 @PK#1650: $set status invisible
+2017-12-14 17:24:20 @ICWbot#6626: Status changed.
+2017-12-14 17:24:27 @PK#1650: $repo
+2017-12-14 17:24:37 @PK#1650: $repo category
+2017-12-14 17:24:43 @PK#1650: $repo list
+2017-12-14 17:24:49 @PK#1650: $cog
+2017-12-14 17:24:50 @ICWbot#6626: ```\n$cog\n\nAdditional cogs management\n\nCommands:\n  info      Shows info about the specified cog\n  install   Installs specified cog\n  list      Lists installable cogs\n  repo      Repo management commands\n  uninstall Uninstalls a cog\n  update    Updates cogs\n\nType $cog command for more info on a command.\nYou can also type $cog category for more info on a category.\n```
+2017-12-14 17:25:00 @PK#1650: $cog repo
+2017-12-14 17:25:01 @ICWbot#6626: ```\n$cog repo\n\nRepo management commands\n\nCommands:\n  add    Adds repo to available repo lists\n  remove Removes repo from repo list. COGS ARE NOT REMOVED.\n\nType $repo command for more info on a command.\nYou can also type $repo category for more info on a category.\n```
+2017-12-14 17:25:39 @PK#1650: $cog liat
+2017-12-14 17:25:40 @ICWbot#6626: ```\n$cog\n\nAdditional cogs management\n\nCommands:\n  info      Shows info about the specified cog\n  install   Installs specified cog\n  list      Lists installable cogs\n  repo      Repo management commands\n  uninstall Uninstalls a cog\n  update    Updates cogs\n\nType $cog command for more info on a command.\nYou can also type $cog category for more info on a category.\n```
+2017-12-14 17:25:51 @PK#1650: $cog list
+2017-12-14 17:25:52 @ICWbot#6626: ```\nAvailable repos:\n	26-Cogs                               \n	Dusty-Cogs                            \n	FlapJack-Cogs                         \n	Jumper-Cogs                           \n	Mash-Cogs                             \n	Maybe-Useful-Cogs                     \n	Neko-Cogs                             \n	ORELS-Cogs                            \n	PaddoCogs                             \n	Red-Portal-Cogs                       \n	RitsuCogs                             \n	Snap-ons                              \n	Tobo-Cogs                             \n	bursting-cogs                         \n	calebj-cogs                           \n	de-cogs                               \n	flapjack-cogs                         \n	orels-cogs                            \n	snap-ons                              \n	tmerc-cogs                            \n\nRepositories list: https://twentysix26.github.io/Red-Docs/red_cog_approved_repos/\n```
+2017-12-14 17:26:23 @PK#1650: $repo snap-ons
+2017-12-14 17:26:44 @PK#1650: $cog repo snap-ons
+2017-12-14 17:26:45 @ICWbot#6626: ```\n$cog repo\n\nRepo management commands\n\nCommands:\n  add    Adds repo to available repo lists\n  remove Removes repo from repo list. COGS ARE NOT REMOVED.\n\nType $repo command for more info on a command.\nYou can also type $repo category for more info on a category.\n```
+2017-12-14 17:27:03 @PK#1650: $load repo
+2017-12-14 17:27:03 @ICWbot#6626: That cog could not be found.
+2017-12-14 17:27:09 @PK#1650: $repo
+2017-12-14 17:27:12 @PK#1650: $repo
+2017-12-14 17:27:20 @PK#1650: $help repo
+2017-12-14 17:27:20 @ICWbot#6626: No command called "repo" found.
+2017-12-14 17:28:11 @PK#1650: $update red
+2017-12-14 17:28:18 @PK#1650: $red update
+2017-12-14 17:28:26 @PK#1650: $update
+2017-12-14 17:28:45 @PK#1650: $cog repo add set https://github.com/pardeepsingh12365/set
+2017-12-14 17:28:35 @PK#1650 edited message from 2017-12-14 17:28:45 ($cog repo add set https://github.com/pardeepsingh12365/set) to read: $cog repo add set https://github.com/pardeepsingh12365/set
+2017-12-14 17:28:46 @ICWbot#6626: You're about to add a 3rd party repository. The creator of Red and its community have no responsibility for any potential damage that the content of 3rd party repositories might cause.\nBy typing 'I agree' you declare to have read and understand the above message. This message won't be shown again until the next reboot.
+2017-12-14 17:28:51 @PK#1650: Yes
+2017-12-14 17:28:51 @ICWbot#6626: Not adding repo.
+2017-12-14 17:28:59 @PK#1650: $cog repo add set https://github.com/pardeepsingh12365/set
+2017-12-14 17:29:00 @ICWbot#6626: You're about to add a 3rd party repository. The creator of Red and its community have no responsibility for any potential damage that the content of 3rd party repositories might cause.\nBy typing 'I agree' you declare to have read and understand the above message. This message won't be shown again until the next reboot.
+2017-12-14 17:29:03 @PK#1650: I agree
+2017-12-14 17:29:07 @ICWbot#6626: thank you
+2017-12-14 17:29:08 @ICWbot#6626: Repo 'set' added.
+2017-12-14 17:29:23 @PK#1650: $cog liast
+2017-12-14 17:29:24 @ICWbot#6626: ```\n$cog\n\nAdditional cogs management\n\nCommands:\n  info      Shows info about the specified cog\n  install   Installs specified cog\n  list      Lists installable cogs\n  repo      Repo management commands\n  uninstall Uninstalls a cog\n  update    Updates cogs\n\nType $cog command for more info on a command.\nYou can also type $cog category for more info on a category.\n```
+2017-12-14 17:29:32 @PK#1650: $cog list
+2017-12-14 17:29:33 @ICWbot#6626: ```\nAvailable repos:\n	26-Cogs                               \n	Dusty-Cogs                            \n	FlapJack-Cogs                         \n	Jumper-Cogs                           \n	Mash-Cogs                             \n	Maybe-Useful-Cogs                     \n	Neko-Cogs                             \n	ORELS-Cogs                            \n	PaddoCogs                             \n	Red-Portal-Cogs                       \n	RitsuCogs                             \n	Snap-ons                              \n	Tobo-Cogs                             \n	bursting-cogs                         \n	calebj-cogs                           \n	de-cogs                               \n	flapjack-cogs                         \n	orels-cogs                            \n	set                Various cogs that do various things\n	snap-ons                              \n	tmerc-cogs                            \n\nRepositories list: https://twentysix26.github.io/Red-Docs/red_cog_approved_repos/\n```
+2017-12-14 17:29:57 @PK#1650: $cog install pardeepsingh12365 set
+2017-12-14 17:29:58 @ICWbot#6626: That repo doesn't exist.
+2017-12-14 17:30:25 @PK#1650: $cog install set
+2017-12-14 17:30:26 @ICWbot#6626: ```\n$cog install <repo_name> <cog>\n\nInstalls specified cog\n\n```
+2017-12-14 17:31:16 @PK#1650: $cog install set set
+2017-12-14 17:31:17 @ICWbot#6626: thank you
+2017-12-14 17:31:17 @ICWbot#6626: Installation completed. Load it now? (yes/no)
+2017-12-14 17:31:21 @PK#1650: Yes
+2017-12-14 17:31:21 @ICWbot#6626: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2017-12-14 17:31:54 @PK#1650: $cog uninstall set set
+2017-12-14 17:31:55 @ICWbot#6626: That cog file doesn't exist. I will not turn off autoloading at start just in case this isn't supposed to happen.
+2017-12-14 17:31:56 @ICWbot#6626: The cog has been unloaded.
+2017-12-14 17:31:57 @ICWbot#6626: Cog successfully uninstalled.
+2017-12-14 17:32:06 @PK#1650: $cog list
+2017-12-14 17:32:07 @ICWbot#6626: ```\nAvailable repos:\n	26-Cogs                               \n	Dusty-Cogs                            \n	FlapJack-Cogs                         \n	Jumper-Cogs                           \n	Mash-Cogs                             \n	Maybe-Useful-Cogs                     \n	Neko-Cogs                             \n	ORELS-Cogs                            \n	PaddoCogs                             \n	Red-Portal-Cogs                       \n	RitsuCogs                             \n	Snap-ons                              \n	Tobo-Cogs                             \n	bursting-cogs                         \n	calebj-cogs                           \n	de-cogs                               \n	flapjack-cogs                         \n	orels-cogs                            \n	set                Various cogs that do various things\n	snap-ons                              \n	tmerc-cogs                            \n\nRepositories list: https://twentysix26.github.io/Red-Docs/red_cog_approved_repos/\n```
+2017-12-14 17:32:33 @PK#1650: $cog repo remove set
+2017-12-14 17:32:34 @ICWbot#6626: Repo 'set' removed.
+2017-12-14 17:32:44 @PK#1650: $cog list
+2017-12-14 17:32:45 @ICWbot#6626: ```\nAvailable repos:\n	26-Cogs                               \n	Dusty-Cogs                            \n	FlapJack-Cogs                         \n	Jumper-Cogs                           \n	Mash-Cogs                             \n	Maybe-Useful-Cogs                     \n	Neko-Cogs                             \n	ORELS-Cogs                            \n	PaddoCogs                             \n	Red-Portal-Cogs                       \n	RitsuCogs                             \n	Snap-ons                              \n	Tobo-Cogs                             \n	bursting-cogs                         \n	calebj-cogs                           \n	de-cogs                               \n	flapjack-cogs                         \n	orels-cogs                            \n	snap-ons                              \n	tmerc-cogs                            \n\nRepositories list: https://twentysix26.github.io/Red-Docs/red_cog_approved_repos/\n```
+2017-12-14 17:39:27 @PK#1650: $cog repo add set https://github.com/pardeepsingh12365/set
+2017-12-14 17:39:32 @ICWbot#6626: done
+2017-12-14 17:39:33 @ICWbot#6626: Repo 'set' added.
+2017-12-14 17:39:57 @PK#1650: $cog list
+2017-12-14 17:39:57 @ICWbot#6626: ```\nAvailable repos:\n	26-Cogs                               \n	Dusty-Cogs                            \n	FlapJack-Cogs                         \n	Jumper-Cogs                           \n	Mash-Cogs                             \n	Maybe-Useful-Cogs                     \n	Neko-Cogs                             \n	ORELS-Cogs                            \n	PaddoCogs                             \n	Red-Portal-Cogs                       \n	RitsuCogs                             \n	Snap-ons                              \n	Tobo-Cogs                             \n	bursting-cogs                         \n	calebj-cogs                           \n	de-cogs                               \n	flapjack-cogs                         \n	orels-cogs                            \n	set                Various cogs that do various things\n	snap-ons                              \n	tmerc-cogs                            \n\nRepositories list: https://twentysix26.github.io/Red-Docs/red_cog_approved_repos/\n```
+2017-12-14 17:40:20 @PK#1650: $cog install pardeepsingh12365 set
+2017-12-14 17:40:20 @ICWbot#6626: That repo doesn't exist.
+2017-12-14 17:40:38 @PK#1650: $cog install set set
+2017-12-14 17:40:39 @ICWbot#6626: thank you
+2017-12-14 17:40:40 @ICWbot#6626: Installation completed. Load it now? (yes/no)
+2017-12-14 17:40:42 @PK#1650: Yes
+2017-12-14 17:40:43 @ICWbot#6626: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2017-12-14 17:41:59 @PK#1650: $load set
+2017-12-14 17:42:00 @ICWbot#6626: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2017-12-14 17:43:37 @PK#1650: $load set
+2017-12-14 17:43:37 @ICWbot#6626: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2017-12-14 17:43:56 @PK#1650: $cog update set
+2017-12-14 17:43:58 @ICWbot#6626: Downloading updated cogs, please wait...  0/21 repos updated
+2017-12-14 17:44:05 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  0/21 repos updated) to read: Downloading updated cogs, please wait...  1/21 repos updated
+2017-12-14 17:44:05 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  1/21 repos updated) to read: Downloading updated cogs, please wait...  2/21 repos updated
+2017-12-14 17:44:06 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  2/21 repos updated) to read: Downloading updated cogs, please wait...  3/21 repos updated
+2017-12-14 17:44:07 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  3/21 repos updated) to read: Downloading updated cogs, please wait...  4/21 repos updated
+2017-12-14 17:44:10 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  4/21 repos updated) to read: Downloading updated cogs, please wait...  5/21 repos updated
+2017-12-14 17:44:12 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  5/21 repos updated) to read: Downloading updated cogs, please wait...  6/21 repos updated
+2017-12-14 17:44:13 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  6/21 repos updated) to read: Downloading updated cogs, please wait...  7/21 repos updated
+2017-12-14 17:44:15 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  7/21 repos updated) to read: Downloading updated cogs, please wait...  8/21 repos updated
+2017-12-14 17:44:18 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  8/21 repos updated) to read: Downloading updated cogs, please wait...  9/21 repos updated
+2017-12-14 17:44:19 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  9/21 repos updated) to read: Downloading updated cogs, please wait...  10/21 repos updated
+2017-12-14 17:44:28 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  10/21 repos updated) to read: Downloading updated cogs, please wait...  11/21 repos updated
+2017-12-14 17:44:32 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  11/21 repos updated) to read: Downloading updated cogs, please wait...  12/21 repos updated
+2017-12-14 17:44:36 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  12/21 repos updated) to read: Downloading updated cogs, please wait...  13/21 repos updated
+2017-12-14 17:44:38 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  13/21 repos updated) to read: Downloading updated cogs, please wait...  14/21 repos updated
+2017-12-14 17:44:40 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  14/21 repos updated) to read: Downloading updated cogs, please wait...  15/21 repos updated
+2017-12-14 17:44:41 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  15/21 repos updated) to read: Downloading updated cogs, please wait...  16/21 repos updated
+2017-12-14 17:44:45 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  16/21 repos updated) to read: Downloading updated cogs, please wait...  17/21 repos updated
+2017-12-14 17:44:46 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  17/21 repos updated) to read: Downloading updated cogs, please wait...  18/21 repos updated
+2017-12-14 17:44:49 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  18/21 repos updated) to read: Downloading updated cogs, please wait...  19/21 repos updated
+2017-12-14 17:44:51 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  19/21 repos updated) to read: Downloading updated cogs, please wait...  20/21 repos updated
+2017-12-14 17:44:52 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  20/21 repos updated) to read: Downloading updated cogs, please wait...  21/21 repos updated
+2017-12-14 17:44:53 @ICWbot#6626 edited message from 2017-12-14 17:43:58 (Downloading updated cogs, please wait...  21/21 repos updated) to read: Downloading updated cogs, please wait... done. \nUpdated cogs: set/set.
+2017-12-14 17:44:53 @ICWbot#6626: ```Prolog\nPatch Notes for set/set\n=======================\ncommit e996f234a8456434cde2a0867b47cdaeddb5f338\nAuthor: pardeepsingh12365 <pardeepsingh12365@gmail.com>\nDate:   82 seconds ago\n\n    Update set.py\n```
+2017-12-14 17:44:55 @ICWbot#6626: Cogs updated. Reload updated cogs? (yes/no)
+2017-12-14 17:45:10 @ICWbot#6626: Ok then, you can reload cogs with `$reload <cog_name>`
+2017-12-14 17:47:17 @PK#1650: Yes
+2017-12-14 17:47:32 @PK#1650: $reload sst
+2017-12-14 17:47:33 @ICWbot#6626: That cog cannot be found.
+2017-12-14 17:47:39 @PK#1650: $reload set
+2017-12-14 17:47:40 @ICWbot#6626: `Error in command 'reload'. Check your console or logs for details.`
+2017-12-14 17:48:14 @PK#1650: $cog update set
+2017-12-14 17:48:15 @ICWbot#6626: Downloading updated cogs, please wait...  0/21 repos updated
+2017-12-14 17:48:21 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  0/21 repos updated) to read: Downloading updated cogs, please wait...  1/21 repos updated
+2017-12-14 17:48:22 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  1/21 repos updated) to read: Downloading updated cogs, please wait...  2/21 repos updated
+2017-12-14 17:48:23 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  2/21 repos updated) to read: Downloading updated cogs, please wait...  3/21 repos updated
+2017-12-14 17:48:23 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  3/21 repos updated) to read: Downloading updated cogs, please wait...  4/21 repos updated
+2017-12-14 17:48:28 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  4/21 repos updated) to read: Downloading updated cogs, please wait...  5/21 repos updated
+2017-12-14 17:48:29 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  5/21 repos updated) to read: Downloading updated cogs, please wait...  6/21 repos updated
+2017-12-14 17:48:33 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  6/21 repos updated) to read: Downloading updated cogs, please wait...  9/21 repos updated
+2017-12-14 17:48:35 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  9/21 repos updated) to read: Downloading updated cogs, please wait...  10/21 repos updated
+2017-12-14 17:48:35 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  10/21 repos updated) to read: Downloading updated cogs, please wait...  11/21 repos updated
+2017-12-14 17:48:39 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  11/21 repos updated) to read: Downloading updated cogs, please wait...  13/21 repos updated
+2017-12-14 17:48:41 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  13/21 repos updated) to read: Downloading updated cogs, please wait...  14/21 repos updated
+2017-12-14 17:48:42 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  14/21 repos updated) to read: Downloading updated cogs, please wait...  15/21 repos updated
+2017-12-14 17:48:42 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  15/21 repos updated) to read: Downloading updated cogs, please wait...  16/21 repos updated
+2017-12-14 17:48:44 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  16/21 repos updated) to read: Downloading updated cogs, please wait...  17/21 repos updated
+2017-12-14 17:48:47 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  17/21 repos updated) to read: Downloading updated cogs, please wait...  18/21 repos updated
+2017-12-14 17:48:48 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  18/21 repos updated) to read: Downloading updated cogs, please wait...  19/21 repos updated
+2017-12-14 17:48:49 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  19/21 repos updated) to read: Downloading updated cogs, please wait...  20/21 repos updated
+2017-12-14 17:48:49 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  20/21 repos updated) to read: Downloading updated cogs, please wait...  21/21 repos updated
+2017-12-14 17:48:50 @ICWbot#6626 edited message from 2017-12-14 17:48:15 (Downloading updated cogs, please wait...  21/21 repos updated) to read: Downloading updated cogs, please wait... done.  No updates to apply.
+2017-12-14 17:49:26 @PK#1650: $load set
+2017-12-14 17:49:27 @ICWbot#6626: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2017-12-14 17:51:45 @PK#1650: $update set
+2017-12-14 17:51:50 @PK#1650: $reload set
+2017-12-14 17:51:51 @ICWbot#6626: `Error in command 'reload'. Check your console or logs for details.`
+2017-12-14 17:51:59 @PK#1650: $cog update
+2017-12-14 17:52:00 @ICWbot#6626: Downloading updated cogs, please wait...  0/21 repos updated
+2017-12-14 17:52:07 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  0/21 repos updated) to read: Downloading updated cogs, please wait...  2/21 repos updated
+2017-12-14 17:52:07 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  1/21 repos updated) to read: Downloading updated cogs, please wait...  2/21 repos updated
+2017-12-14 17:52:08 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  2/21 repos updated) to read: Downloading updated cogs, please wait...  3/21 repos updated
+2017-12-14 17:52:09 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  3/21 repos updated) to read: Downloading updated cogs, please wait...  4/21 repos updated
+2017-12-14 17:52:13 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  4/21 repos updated) to read: Downloading updated cogs, please wait...  5/21 repos updated
+2017-12-14 17:52:14 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  5/21 repos updated) to read: Downloading updated cogs, please wait...  8/21 repos updated
+2017-12-14 17:52:18 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  8/21 repos updated) to read: Downloading updated cogs, please wait...  9/21 repos updated
+2017-12-14 17:52:19 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  9/21 repos updated) to read: Downloading updated cogs, please wait...  10/21 repos updated
+2017-12-14 17:52:19 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  10/21 repos updated) to read: Downloading updated cogs, please wait...  11/21 repos updated
+2017-12-14 17:52:20 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  11/21 repos updated) to read: Downloading updated cogs, please wait...  12/21 repos updated
+2017-12-14 17:52:23 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  12/21 repos updated) to read: Downloading updated cogs, please wait...  13/21 repos updated
+2017-12-14 17:52:24 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  13/21 repos updated) to read: Downloading updated cogs, please wait...  14/21 repos updated
+2017-12-14 17:52:26 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  14/21 repos updated) to read: Downloading updated cogs, please wait...  15/21 repos updated
+2017-12-14 17:52:26 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  15/21 repos updated) to read: Downloading updated cogs, please wait...  16/21 repos updated
+2017-12-14 17:52:29 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  16/21 repos updated) to read: Downloading updated cogs, please wait...  17/21 repos updated
+2017-12-14 17:52:30 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  17/21 repos updated) to read: Downloading updated cogs, please wait...  18/21 repos updated
+2017-12-14 17:52:31 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  18/21 repos updated) to read: Downloading updated cogs, please wait...  19/21 repos updated
+2017-12-14 17:52:32 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  19/21 repos updated) to read: Downloading updated cogs, please wait...  21/21 repos updated
+2017-12-14 17:52:33 @ICWbot#6626 edited message from 2017-12-14 17:52:00 (Downloading updated cogs, please wait...  21/21 repos updated) to read: Downloading updated cogs, please wait... done. \nUpdated cogs: set/set.
+2017-12-14 17:52:34 @ICWbot#6626: ```Prolog\nPatch Notes for set/set\n=======================\ncommit 0637de617601d0457a4bff7746ae11320ee85e7e\nAuthor: pardeepsingh12365 <pardeepsingh12365@gmail.com>\nDate:   79 seconds ago\n\n    Update set.py\n```
+2017-12-14 17:52:34 @ICWbot#6626: Cogs updated. Reload updated cogs? (yes/no)
+2017-12-14 17:52:41 @PK#1650: Yes
+2017-12-14 17:52:42 @ICWbot#6626: Done. The following cogs failed to reload: set
+2017-12-14 17:52:53 @PK#1650: $load set
+2017-12-14 17:52:53 @ICWbot#6626: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2017-12-14 17:57:53 @PK#1650: $cog update
+2017-12-14 17:57:54 @ICWbot#6626: Downloading updated cogs, please wait...  0/21 repos updated
+2017-12-14 17:58:01 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  0/21 repos updated) to read: Downloading updated cogs, please wait...  1/21 repos updated
+2017-12-14 17:58:01 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  1/21 repos updated) to read: Downloading updated cogs, please wait...  2/21 repos updated
+2017-12-14 17:58:02 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  2/21 repos updated) to read: Downloading updated cogs, please wait...  3/21 repos updated
+2017-12-14 17:58:03 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  3/21 repos updated) to read: Downloading updated cogs, please wait...  4/21 repos updated
+2017-12-14 17:58:07 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  4/21 repos updated) to read: Downloading updated cogs, please wait...  5/21 repos updated
+2017-12-14 17:58:08 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  5/21 repos updated) to read: Downloading updated cogs, please wait...  6/21 repos updated
+2017-12-14 17:58:08 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  6/21 repos updated) to read: Downloading updated cogs, please wait...  7/21 repos updated
+2017-12-14 17:58:09 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  7/21 repos updated) to read: Downloading updated cogs, please wait...  8/21 repos updated
+2017-12-14 17:58:12 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  8/21 repos updated) to read: Downloading updated cogs, please wait...  9/21 repos updated
+2017-12-14 17:58:14 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  9/21 repos updated) to read: Downloading updated cogs, please wait...  10/21 repos updated
+2017-12-14 17:58:15 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  10/21 repos updated) to read: Downloading updated cogs, please wait...  11/21 repos updated
+2017-12-14 17:58:16 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  11/21 repos updated) to read: Downloading updated cogs, please wait...  12/21 repos updated
+2017-12-14 17:58:17 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  12/21 repos updated) to read: Downloading updated cogs, please wait...  13/21 repos updated
+2017-12-14 17:58:20 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  13/21 repos updated) to read: Downloading updated cogs, please wait...  14/21 repos updated
+2017-12-14 17:58:20 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  14/21 repos updated) to read: Downloading updated cogs, please wait...  15/21 repos updated
+2017-12-14 17:58:21 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  15/21 repos updated) to read: Downloading updated cogs, please wait...  16/21 repos updated
+2017-12-14 17:58:23 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  16/21 repos updated) to read: Downloading updated cogs, please wait...  17/21 repos updated
+2017-12-14 17:58:25 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  17/21 repos updated) to read: Downloading updated cogs, please wait...  18/21 repos updated
+2017-12-14 17:58:25 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  18/21 repos updated) to read: Downloading updated cogs, please wait...  19/21 repos updated
+2017-12-14 17:58:26 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  19/21 repos updated) to read: Downloading updated cogs, please wait...  20/21 repos updated
+2017-12-14 17:58:27 @ICWbot#6626 edited message from 2017-12-14 17:57:54 (Downloading updated cogs, please wait...  20/21 repos updated) to read: Downloading updated cogs, please wait... done. \nUpdated cogs: set/set.
+2017-12-14 17:58:27 @ICWbot#6626: ```Prolog\nPatch Notes for set/set\n=======================\ncommit 8388d21d9dfaf9f49df24a8294364368cb35f316\nAuthor: pardeepsingh12365 <pardeepsingh12365@gmail.com>\nDate:   45 seconds ago\n\n    Update set.py\n```
+2017-12-14 17:58:28 @ICWbot#6626: Cogs updated. Reload updated cogs? (yes/no)
+2017-12-14 17:58:30 @PK#1650: Yes
+2017-12-14 17:58:30 @ICWbot#6626: Done. The following cogs failed to reload: set
+2017-12-14 17:58:52 @PK#1650: $load set
+2017-12-14 17:58:52 @ICWbot#6626: Cog was found and possibly loaded but something went wrong. Check your console or logs for more information.
+2017-12-14 18:08:44 @PK#1650: $cog update
+2017-12-14 18:08:45 @ICWbot#6626: Downloading updated cogs, please wait...  0/21 repos updated
+2017-12-14 18:08:51 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  0/21 repos updated) to read: Downloading updated cogs, please wait...  1/21 repos updated
+2017-12-14 18:08:52 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  1/21 repos updated) to read: Downloading updated cogs, please wait...  2/21 repos updated
+2017-12-14 18:08:54 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  2/21 repos updated) to read: Downloading updated cogs, please wait...  4/21 repos updated
+2017-12-14 18:08:58 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  4/21 repos updated) to read: Downloading updated cogs, please wait...  5/21 repos updated
+2017-12-14 18:08:58 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  5/21 repos updated) to read: Downloading updated cogs, please wait...  6/21 repos updated
+2017-12-14 18:08:59 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  6/21 repos updated) to read: Downloading updated cogs, please wait...  7/21 repos updated
+2017-12-14 18:09:01 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  7/21 repos updated) to read: Downloading updated cogs, please wait...  8/21 repos updated
+2017-12-14 18:09:03 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  8/21 repos updated) to read: Downloading updated cogs, please wait...  9/21 repos updated
+2017-12-14 18:09:03 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  9/21 repos updated) to read: Downloading updated cogs, please wait...  10/21 repos updated
+2017-12-14 18:09:05 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  10/21 repos updated) to read: Downloading updated cogs, please wait...  11/21 repos updated
+2017-12-14 18:09:06 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  11/21 repos updated) to read: Downloading updated cogs, please wait...  12/21 repos updated
+2017-12-14 18:09:09 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  12/21 repos updated) to read: Downloading updated cogs, please wait...  13/21 repos updated
+2017-12-14 18:09:10 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  13/21 repos updated) to read: Downloading updated cogs, please wait...  14/21 repos updated
+2017-12-14 18:09:12 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  14/21 repos updated) to read: Downloading updated cogs, please wait...  15/21 repos updated
+2017-12-14 18:09:14 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  15/21 repos updated) to read: Downloading updated cogs, please wait...  16/21 repos updated
+2017-12-14 18:09:16 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  16/21 repos updated) to read: Downloading updated cogs, please wait...  17/21 repos updated
+2017-12-14 18:09:17 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  17/21 repos updated) to read: Downloading updated cogs, please wait...  18/21 repos updated
+2017-12-14 18:09:18 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  18/21 repos updated) to read: Downloading updated cogs, please wait...  19/21 repos updated
+2017-12-14 18:09:19 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  19/21 repos updated) to read: Downloading updated cogs, please wait...  20/21 repos updated
+2017-12-14 18:09:20 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  20/21 repos updated) to read: Downloading updated cogs, please wait...  21/21 repos updated
+2017-12-14 18:09:22 @ICWbot#6626 edited message from 2017-12-14 18:08:45 (Downloading updated cogs, please wait...  21/21 repos updated) to read: Downloading updated cogs, please wait... done. \nUpdated cogs: set/set.
+2017-12-14 18:09:23 @ICWbot#6626: ```Prolog\nPatch Notes for set/set\n=======================\ncommit 2e8ec188db3067fa6e2c9748b346f4028d3c3928\nAuthor: pardeepsingh12365 <pardeepsingh12365@gmail.com>\nDate:   61 seconds ago\n\n    Update set.py\n```
+2017-12-14 18:09:23 @ICWbot#6626: Cogs updated. Reload updated cogs? (yes/no)
+2017-12-14 18:09:27 @PK#1650: Yes
+2017-12-14 18:09:28 @ICWbot#6626: Done. The following cogs failed to reload: set
+2017-12-14 18:09:43 @PK#1650: $load set
+2017-12-14 18:09:44 @ICWbot#6626: The cog has been loaded.
+2017-12-14 18:09:56 @PK#1650: $give alt
+2017-12-14 18:10:03 @PK#1650: $givealt
+2017-12-14 18:10:03 @ICWbot#6626: That command is not available in DMs.
+2017-12-14 18:10:42 @ICWbot#6626: Message 2
+2017-12-14 18:10:51 @ICWbot#6626: Message 2
+2017-12-14 18:11:09 @ICWbot#6626: Message 0

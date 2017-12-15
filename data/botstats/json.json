@@ -1,0 +1,6 @@
+{
+    "MAINPREFIX" : "$",
+    "MESSAGE" : "{0}help | {1} servers | {2} users",
+    "SECONDS2LIVE" : 15,
+    "TOGGLE" : true
+}

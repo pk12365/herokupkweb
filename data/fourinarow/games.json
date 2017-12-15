@@ -1,0 +1,89 @@
+{
+    "CHANNELS" : {
+        "297150306092056590" : {
+            "PLAYERS" : {
+                "IDS" : [
+                    "198112175951183872"
+                ],
+                "NAMES" : [
+                    "VyrenGames"
+                ],
+                "TOKENS" : [
+                    6
+                ]
+            },
+            "VOTES_STP" : {
+                "voteIds" : [],
+                "votes" : 0
+            },
+            "activePlayers" : 1,
+            "board" : [
+                [
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black"
+                ],
+                [
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black",
+                    "black"
+                ]
+            ],
+            "boardSize" : 0,
+            "botDifficulty" : 1,
+            "deleteMsg" : true,
+            "gameStarted" : 1496628920,
+            "inQue" : "yes",
+            "lastActivity" : 1496628920,
+            "skipIds" : [],
+            "turnIds" : [
+                "198112175951183872"
+            ],
+            "winner" : "unknown"
+        }
+    }
+}

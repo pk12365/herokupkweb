@@ -1,0 +1,36 @@
+{
+    "256597937533091842" : {
+        "1" : {
+            "action" : "BAN",
+            "amended_by" : null,
+            "amended_id" : null,
+            "case" : 1,
+            "channel" : null,
+            "created" : 1498013044.895087,
+            "message" : "326854749460758529",
+            "moderator" : null,
+            "moderator_id" : null,
+            "modified" : null,
+            "reason" : null,
+            "until" : null,
+            "user" : "kys#6668",
+            "user_id" : "215537612457246722"
+        },
+        "2" : {
+            "action" : "UNBAN",
+            "amended_by" : null,
+            "amended_id" : null,
+            "case" : 2,
+            "channel" : null,
+            "created" : 1498013095.945846,
+            "message" : "326854963806470155",
+            "moderator" : null,
+            "moderator_id" : null,
+            "modified" : null,
+            "reason" : null,
+            "until" : null,
+            "user" : "kys#6668",
+            "user_id" : "215537612457246722"
+        }
+    }
+}

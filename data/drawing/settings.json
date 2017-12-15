@@ -1,0 +1,20 @@
+{
+    "build" : {
+        "257734324839907329" : {
+            "youtube" : {
+                "frame" : "white",
+                "small" : false
+            }
+        }
+    },
+    "text" : {
+        "257734324839907329" : {
+            "bot_sign" : "sinon"
+        }
+    },
+    "userbar" : {
+        "257734324839907329" : {
+            "background" : "data/drawing/bg.png"
+        }
+    }
+}

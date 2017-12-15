@@ -1,0 +1,26 @@
+{
+    "PLAYERS" : {
+        "198112175951183872" : {
+            "MSG" : {
+                "joiningMsg" : "Newbie",
+                "playerMsg" : "nomsg",
+                "victoryMsg" : "nomsg"
+            },
+            "STATS" : {
+                "avarageTimeGame" : 0,
+                "averageTimeTurn" : 0,
+                "draw" : 0,
+                "loss" : 0,
+                "points" : 10,
+                "totalMoves" : 0,
+                "wasted" : 0,
+                "won" : 0
+            },
+            "boardId" : "297150306092056590",
+            "playerId" : "198112175951183872",
+            "playerName" : "VyrenGames",
+            "tokenAssinged" : 6,
+            "tokenPreferred" : 0
+        }
+    }
+}
