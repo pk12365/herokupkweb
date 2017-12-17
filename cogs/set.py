@@ -9,7 +9,7 @@ class set:
 
     def __init__(self, bot):
         self.bot = bot
-    @commands.command(pass_context=True, name="givealt", aliases=["althelp", "Getalt", "GETALT", "Helpalt", "HelpAlt", "HELPALT", "altHelp", "altHELP", "ALTHELP"])
+    @commands.command(pass_context=True, name="givealt", aliases=["helpalt", "althelp", "Getalt", "GETALT", "Helpalt", "HelpAlt", "HELPALT", "altHelp", "altHELP", "ALTHELP"])
     async def givealt(self):
 
         #Your code will go here
