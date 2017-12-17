@@ -37,7 +37,7 @@ from io import TextIOWrapper
 #                 https://github.com/Rapptz/RoboDanny/
 #
 
-description = "Red - A multifunction Discord bot by Twentysix"
+description = "INDIAN CYBER WORLD bot created by PK#1650"
 
 
 class Bot(commands.Bot):
