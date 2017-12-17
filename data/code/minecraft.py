@@ -1,7 +1,6 @@
 import discord
 from discord.ext import commands
 import random
-from cogs.utils. untils import checks
 minecraft_accounts =["minecraft account by pk = 	jenny7j@hotmail.com:11september1995	",
 "minecraft account by pk = 	owenalcock@hotmail.com:Reading1	",
 "minecraft account by pk = 	damyanovg@yahoo.com:852456gogi	",
