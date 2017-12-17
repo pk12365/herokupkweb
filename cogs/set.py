@@ -9,13 +9,13 @@ class set:
 
     def __init__(self, bot):
         self.bot = bot
-    @commands.command(pass_context=True, name="getalt", aliases=["helpalt", "althelp", "Getalt", "GETALT", "Helpalt", "HelpAlt", "HELPALT", "altHelp", "altHELP", "ALTHELP"])
-    async def getalt(self):
+    @commands.command(pass_context=True, name="givealt", aliases=["althelp", "Getalt", "GETALT", "Helpalt", "HelpAlt", "HELPALT", "altHelp", "altHELP", "ALTHELP"])
+    async def givealt(self):
 
         #Your code will go here
         await self.bot.say('```we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast https://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay```')
 
-    @commands.command(no_pm=True, name="getminecraft", aliases=["getMinecraft", "getMINECRAFT"])
+    @commands.command(no_pm=True)
     @checks.is_main_server()
     async def getminecraft(self):
         """done"""
@@ -24,7 +24,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(minecraft.minecraft_accounts))
 
-    @commands.command(no_pm=True, name="getspotify", aliases=["getSpotify", "getSPOTIFY", "GETSPOTIFY"])
+    @commands.command(no_pm=True)
     @checks.is_main_server()
     async def getspotify(self):
         """done"""
@@ -33,7 +33,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(spotify.spotify_accounts))
 
-    @commands.command(no_pm=True, name="getnetflix", aliases=["getNetflix", "getNETFLIX", "GETNETFLIX"])
+    @commands.command(no_pm=True)
     @checks.is_main_server()
     async def getnetflix(self):
         """done"""
@@ -42,7 +42,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(netflix.netflix_accounts))
 
-    @commands.command(no_pm=True, name="hulu", aliases=["getHulu", "getHULU", "GETHULU"])
+    @commands.command(no_pm=True)
     @checks.is_main_server()
     async def gethulu(self):
         """done"""
@@ -51,7 +51,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(hulu.hulu_accounts))
 
-    @commands.command(no_pm=True, name="origin", aliases=["getOrigin", "getORIGIN", "GETORIGIN"])
+    @commands.command(no_pm=True)
     @checks.is_main_server()
     async def getorigin(self):
         """done"""
@@ -60,7 +60,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(origin.origin_accounts))
 
-    @commands.command(no_pm=True, name="getuplay", aliases=["getUplay", "getUPLAY", "GETUPLAY"])
+    @commands.command(no_pm=True)
     @checks.is_main_server()
     async def getuplay(self):
         """done"""
