@@ -13,11 +13,11 @@ class set:
 
     @commands.command(pass_context=True, name="getalt",
                       aliases=["helpalt", "althelp", "getalt", "Getalt", "GETALT", "Helpalt", "HelpAlt", "HELPALT", "altHelp", "altHELP", "ALTHELP"])
-    @checks.is_main_server()
+    
     async def getalt(self):
 
         #Your code will go here
-        await self.bot.say('```we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay```')
+        await self.bot.say('```we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast https://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay```')
 
     @commands.command(no_pm=True, name="getminecraft", aliases=["getMinecraft", "getMINECRAFT"])
     @checks.is_main_server()
