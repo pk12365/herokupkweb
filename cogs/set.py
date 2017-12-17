@@ -10,7 +10,6 @@ class set:
 
     def __init__(self, bot):
         self.bot = bot
-
     @commands.command(pass_context=True, name="getalt",
                       aliases=["helpalt", "althelp", "getalt", "Getalt", "GETALT", "Helpalt", "HelpAlt", "HELPALT", "altHelp", "altHELP", "ALTHELP"])
     
