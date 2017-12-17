@@ -88,7 +88,7 @@ def mod():
     return mod_or_permissions()
 # main_server is the ID of the server icwbot is originally made for, meaning there may be
 # some exclusive features and/or commands on this server only.
-main_server = "280899929503825920"
+main_server = "268683615632621568"
 owner_ids = "264470521788366848"
 # Checks if the user belongs to main_server and channel is in main_server
 def is_main_server():
