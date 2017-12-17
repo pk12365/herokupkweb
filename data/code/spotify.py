@@ -2,4 +2,32 @@ import discord
 from discord.ext import commands
 import random
 from cogs.utils import checks
-spotify_accounts = ["spoti0", "spoti1", "spoti2"]
+spotify_accounts = ["Spotify account by pk let's enjoy😅 -	torenstain@gmail.com:Phoenix1	", 
+"Spotify account by pk let's enjoy😅 -	mousepoxmail@gmail.com:2sentence8	", 
+"Spotify account by pk let's enjoy😅 -	rik.achterberg@gmail.com:0verkant	", 
+"Spotify account by pk let's enjoy😅 -	tokofoun@gmail.com:omega95410	", 
+"Spotify account by pk let's enjoy😅 -	neraof427@yahoo.com:bunny427	", 
+"Spotify account by pk let's enjoy😅 -	nepresto@gmail.com:asudvl08	", 
+"Spotify account by pk let's enjoy😅 -	legend0455@gmail.com:fredrick1	", 
+"Spotify account by pk let's enjoy😅 -	ryanfarrer1@gmail.com:winterlink65	", 
+"Spotify account by pk let's enjoy😅 -	daniele.grote@gmail.com:1991e2007	", 
+"Spotify account by pk let's enjoy😅 -	afuller147@gmail.com:idunno00	", 
+"Spotify account by pk let's enjoy😅 -	martinsjodin@gmail.com:LaPv5596	", 
+"Spotify account by pk let's enjoy😅 -	a4v19812vwv@gmail.com:a19930510	", 
+"Spotify account by pk let's enjoy😅 -	virantd@gmail.com:wsaenotsock	", 
+"Spotify account by pk let's enjoy😅 -	ryansiddorn@gmail.com:563ffe20	", 
+"Spotify account by pk let's enjoy😅 -	lt.takagi@gmail.com:vlx5k32b	", 
+"Spotify account by pk let's enjoy😅 -	romulus437@gmail.com:Radeczko437	", 
+"Spotify account by pk let's enjoy😅 -	masonschlagel@gmail.com:moocow33	", 
+"Spotify account by pk let's enjoy😅 -	jelk24@gmail.com:660915147	", 
+"Spotify account by pk let's enjoy😅 -	yurifuro@gmail.com:computer93	", 
+"Spotify account by pk let's enjoy😅 -	bearismykat@gmail.com:bear123	", 
+"Spotify account by pk let's enjoy😅 -	abigail.bretagne@gmail.com:marvel616	", 
+"Spotify account by pk let's enjoy😅 -	keven.byberg@gmail.com:bullshit321	", 
+"Spotify account by pk let's enjoy😅 -	rld302@yahoo.com:cali12	", 
+"Spotify account by pk let's enjoy😅 -	jonastrank@gmail.com:Djupedal11	", 
+"Spotify account by pk let's enjoy😅 -	davedelarosa1117@gmail.com:gohome666	", 
+"Spotify account by pk let's enjoy😅 -	austinshaw923@yahoo.com:shawzie125	", 
+"Spotify account by pk let's enjoy😅 -	jackmitchell3@yahoo.com:password3	", 
+"Spotify account by pk let's enjoy😅 -	pascal.schaible94@gmail.com:pascal1605	", 
+"Spotify account by pk let's enjoy😅 -	todd_ramsay@yahoo.com:chade1337	", ]
