@@ -42,7 +42,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(netflix.netflix_accounts))
 
-    @commands.command(no_pm=True, aliases=["getHulu", "GetHulu", "GETHULU"])
+    @commands.command(no_pm=True)
     @checks.is_main_server()
     async def gethulu(self):
         """done"""
