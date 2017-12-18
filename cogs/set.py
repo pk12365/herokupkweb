@@ -4,7 +4,7 @@ from cogs.utils import checks
 from data.code import minecraft, spotify, netflix, hulu, origin, uplay
 from discord.ext import commands
 
-class set:
+class get:
     """ wait"""
 
     def __init__(self, bot):
@@ -69,4 +69,4 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(uplay.uplay_accounts))
 def setup(bot):
-    bot.add_cog(set(bot))
+    bot.add_cog(get(bot))
