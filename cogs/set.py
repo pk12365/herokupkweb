@@ -15,7 +15,7 @@ class set:
         #Your code will go here
         await self.bot.say('```we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast https://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay```')
 
-    @commands.command(no_pm=True)
+    @commands.command(no_pm=True, name="getminecraft", aliases=["getMinecraft", "GetMinecraft", "GETMINECRAFT"])
     @checks.is_main_server()
     async def getminecraft(self):
         """done"""
