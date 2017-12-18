@@ -24,7 +24,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(minecraft.minecraft_accounts))
 
-    @commands.command(no_pm=True)
+    @commands.command(no_pm=True, name="getspotify", aliases=["getSpotify", "GetSpotify", "GETSPOTIFY"])
     @checks.is_main_server()
     async def getspotify(self):
         """done"""
@@ -33,7 +33,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(spotify.spotify_accounts))
 
-    @commands.command(no_pm=True)
+    @commands.command(no_pm=True, name="getnetflix", aliases=["getNetflix", "GetNetflix", "GETNETFLIX"])
     @checks.is_main_server()
     async def getnetflix(self):
         """done"""
@@ -42,7 +42,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(netflix.netflix_accounts))
 
-    @commands.command(no_pm=True)
+    @commands.command(no_pm=True, name="hulu", aliases=["getHulu", "GetHulu", "GETHULU"])
     @checks.is_main_server()
     async def gethulu(self):
         """done"""
@@ -51,7 +51,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(hulu.hulu_accounts))
 
-    @commands.command(no_pm=True)
+    @commands.command(no_pm=True, name="getorigin", aliases=["getHulu", "GetHulu", "GETHULU"])
     @checks.is_main_server()
     async def getorigin(self):
         """done"""
@@ -60,7 +60,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(origin.origin_accounts))
 
-    @commands.command(no_pm=True)
+    @commands.command(no_pm=True, name="getuplay", aliases=["getUplay", "GetUplay", "GETUPLAY")
     @checks.is_main_server()
     async def getuplay(self):
         """done"""
