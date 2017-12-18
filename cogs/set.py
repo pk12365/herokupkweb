@@ -60,7 +60,7 @@ class set:
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
         await self.bot.whisper(random.choice(origin.origin_accounts))
 
-    @commands.command(no_pm=True, name="getuplay", aliases=["getUplay", "GetUplay", "GETUPLAY")
+    @commands.command(no_pm=True, name="getuplay", aliases=["getUplay", "GetUplay", "GETUPLAY"])
     @checks.is_main_server()
     async def getuplay(self):
         """done"""
