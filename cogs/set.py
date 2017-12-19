@@ -13,14 +13,13 @@ class get:
     async def givealt(self, ctx):
         """CTX example command"""
         author = ctx.message.author
-        line1 = "we are giving some alt only on"
+        line1 = "we are giving some 🆓alt only on"
         field_name = "Generic Name"
         field_contents = "Example contents for this field"
         footer_text = "we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast https://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay."
 
         embed = discord.Embed(colour=0xFF0000)
-        embed.set_line1(line1=line1)
-        embeed.set_footer(text=footer_text)
+        embeed.set_footer(text=footer_text, line1)
         await self.bot.say(embed=embed)
 
     @commands.command(no_pm=True, name="getminecraft", aliases=["getMinecraft", "GetMinecraft", "GETMINECRAFT"])
