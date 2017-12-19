@@ -17,9 +17,8 @@ class get:
         field_name = "Generic Name"
         field_contents = "Example contents for this field"
         footer_text = ""
-        embed_colours = ("0×FF0000", "0×FF69B4", "0×FFFF00")
 
-        embed = discord.Embed(colour=0×FF69B4, description=line1)
+        embed = discord.Embed(colour=0×FF0000, description=line1)
         embed.title = "INDIAN CYBER WORLD"
         embed.set_footer(text=footer_text)
         await self.bot.say(embed=embed)
