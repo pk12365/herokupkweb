@@ -20,7 +20,7 @@ class get:
         embed_colours = ("0×FF0000", "0×FF69B4", "0×FFFF00")
 
         embed = discord.Embed(description=line1)
-        embed.colour = (embed_colours)
+        embed.colour = (rendom.choice(embed_colours))
         embed.title = "INDIAN CYBER WORLD"
         embed.set_footer(text=footer_text)
         await self.bot.say(embed=embed)
