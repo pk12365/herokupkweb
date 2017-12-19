@@ -19,8 +19,7 @@ class get:
         footer_text = ""
         embed_colours = ("0×FF0000", "0×FF69B4", "0×FFFF00")
 
-        embed = discord.Embed(description=line1)
-        embed.colour = (rendom.choice(embed_colours))
+        embed = discord.Embed(colour=(random.choice(embed_colours)), description=line1)
         embed.title = "INDIAN CYBER WORLD"
         embed.set_footer(text=footer_text)
         await self.bot.say(embed=embed)
