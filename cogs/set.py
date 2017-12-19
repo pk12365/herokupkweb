@@ -19,9 +19,7 @@ class get:
         field_contents = "Example contents for this field"
         footer_text = "we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast https://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay."
 
-        embed = discord.Embed(colour=0xFF0000, description=description)  # Can use discord.Colour()
-        embed.title = "Cool title for my embed"
-        embed.add_field(name=field_name, value=field_contents)  # Can add multiple fields.
+        embed = discord.Embed(colour=0xFF0000, description=description)  # Can use discord.Colour() 
         embed.set_footer(text=footer_text)
         await self.bot.say(embed=embed)
 
