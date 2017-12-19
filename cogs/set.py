@@ -10,10 +10,21 @@ class get:
     def __init__(self, bot):
         self.bot = bot
     @commands.command(pass_context=True, name="givealt", aliases=["helpalt", "althelp", "getalt", "Getalt", "GETALT", "Helpalt", "HelpAlt", "HELPALT", "altHelp", "altHELP", "ALTHELP"])
-    async def givealt(self):
+    async def givealt(self, ctx):
+        """CTX example command"""
+        author = ctx.message.author
+        description = ("Short little description with a link to "
+                       "the [guide](https://github.com/Redjumpman/Jumper-Cogs/wiki/Discord-Coding-Guide)")
+        field_name = "Generic Name"
+        field_contents = "Example contents for this field"
+        footer_text = "we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast https://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay."
 
-        #Your code will go here
-        await self.bot.say('```we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast https://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay```')
+        embed = discord.Embed(colour=0xFF0000, description=description)  # Can use discord.Colour()
+        embed.title = "Cool title for my embed"
+        embed.set_author(name=str(author.name), icon_url=author.avatar_url)
+        embed.add_field(name=field_name, value=field_contents)  # Can add multiple fields.
+        embed.set_footer(text=footer_text)
+        await self.bot.say(embed=embed)
 
     @commands.command(no_pm=True, name="getminecraft", aliases=["getMinecraft", "GetMinecraft", "GETMINECRAFT"])
     @checks.is_main_server()
