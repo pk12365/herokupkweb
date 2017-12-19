@@ -19,7 +19,7 @@ class get:
         footer_text = "we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast https://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List⤵\n\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay."
 
         embed = discord.Embed(colour=0xFF0000)
-        embed.line1
+        embed.set_line1(line1=line1)
         embeed.set_footer(text=footer_text)
         await self.bot.say(embed=embed)
 
