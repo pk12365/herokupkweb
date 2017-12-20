@@ -26,7 +26,7 @@ class get:
     @commands.command(no_pm=True, name="getminecraft", aliases=["getMinecraft", "GetMinecraft", "GETMINECRAFT"])
     @checks.is_main_server()
     async def getminecraft(self):
-        """done"""
+        """For minecraft accounts"""
 
         #Your code will go here
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
@@ -35,7 +35,7 @@ class get:
     @commands.command(no_pm=True, name="getspotify", aliases=["getSpotify", "GetSpotify", "GETSPOTIFY"])
     @checks.is_main_server()
     async def getspotify(self):
-        """done"""
+        """For spotify accounts"""
 
         #Your code will go here
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
@@ -44,7 +44,7 @@ class get:
     @commands.command(no_pm=True, name="getnetflix", aliases=["getNetflix", "GetNetflix", "GETNETFLIX"])
     @checks.is_main_server()
     async def getnetflix(self):
-        """done"""
+        """For netflix accounts"""
 
         #Your code will go here
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
@@ -53,7 +53,7 @@ class get:
     @commands.command(no_pm=True, name="gethulu", aliases=["getHulu", "GetHulu", "GETHULU"])
     @checks.is_main_server()
     async def gethulu(self):
-        """done"""
+        """For hulu accounts"""
 
         #Your code will go here
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
@@ -62,7 +62,7 @@ class get:
     @commands.command(no_pm=True, name="getorigin", aliases=["getOrigin", "GetORIGIN", "GETORIGIN"])
     @checks.is_main_server()
     async def getorigin(self):
-        """done"""
+        """For origin accounts"""
 
         #Your code will go here
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
@@ -71,7 +71,7 @@ class get:
     @commands.command(no_pm=True, name="getuplay", aliases=["getUplay", "GetUplay", "GETUPLAY"])
     @checks.is_main_server()
     async def getuplay(self):
-        """done"""
+        """For uplay accouns"""
 
         #Your code will go here
         await self.bot.say("check your dm bebe 😅😅", delete_after=5.0)
