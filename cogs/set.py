@@ -11,7 +11,7 @@ class get:
         self.bot = bot
     @commands.command(pass_context=True, name="givealt", aliases=["helpalt", "althelp", "getalt", "Getalt", "GETALT", "Helpalt", "HelpAlt", "HELPALT", "altHelp", "altHELP", "ALTHELP"])
     async def givealt(self, ctx):
-        """CTX example command"""
+        """Get Free Accounts"""
         author = ctx.message.author
         line1 = ("we are giving some 🆓alt only on\n💟INDIAN CYBER WORLD💟\nit u not on thare join fast\nhttps://discord.gg/tdfKtax\nJust take a command $get(your command)\n\nAccount List🔻\n🔴minecraft\n🔵Spotify\n⚪Netflix\n⚫Hulu\n🔴Origin\n🔵Uplay.")
         field_name = "Generic Name"
