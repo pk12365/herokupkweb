@@ -25,6 +25,7 @@ class get:
 
     @commands.command(no_pm=True, name="getminecraft", aliases=["getMinecraft", "GetMinecraft", "GETMINECRAFT"])
     @checks.is_main_server()
+    @commands.cooldown(1, 600, type=commands.BucketType.user)
     async def getminecraft(self):
         """For minecraft accounts"""
 
@@ -34,6 +35,7 @@ class get:
 
     @commands.command(no_pm=True, name="getspotify", aliases=["getSpotify", "GetSpotify", "GETSPOTIFY"])
     @checks.is_main_server()
+    @commands.cooldown(1, 600, type=commands.BucketType.user)
     async def getspotify(self):
         """For spotify accounts"""
 
@@ -43,6 +45,7 @@ class get:
 
     @commands.command(no_pm=True, name="getnetflix", aliases=["getNetflix", "GetNetflix", "GETNETFLIX"])
     @checks.is_main_server()
+    @commands.cooldown(1, 600, type=commands.BucketType.user)
     async def getnetflix(self):
         """For netflix accounts"""
 
@@ -52,6 +55,7 @@ class get:
 
     @commands.command(no_pm=True, name="gethulu", aliases=["getHulu", "GetHulu", "GETHULU"])
     @checks.is_main_server()
+    @commands.cooldown(1, 600, type=commands.BucketType.user)
     async def gethulu(self):
         """For hulu accounts"""
 
@@ -61,6 +65,7 @@ class get:
 
     @commands.command(no_pm=True, name="getorigin", aliases=["getOrigin", "GetORIGIN", "GETORIGIN"])
     @checks.is_main_server()
+    @commands.cooldown(1, 600, type=commands.BucketType.user)
     async def getorigin(self):
         """For origin accounts"""
 
@@ -70,6 +75,7 @@ class get:
 
     @commands.command(no_pm=True, name="getuplay", aliases=["getUplay", "GetUplay", "GETUPLAY"])
     @checks.is_main_server()
+    @commands.cooldown(1, 600, type=commands.BucketType.user)
     async def getuplay(self):
         """For uplay accouns"""
 
