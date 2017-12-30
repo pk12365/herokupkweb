@@ -6,7 +6,7 @@
         "$",
         "[p]"
     ],
-    "TOKEN" : "",
+    "TOKEN" : "your_token_here",
     "default" : {
         "ADMIN_ROLE" : "Bot Commander",
         "MOD_ROLE" : "Bot Moderator",
