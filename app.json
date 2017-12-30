@@ -5,21 +5,3 @@
     "repository": "https://github.com/dealien/Red-Magician",
     "keywords": ["discord", "python", "bot"],
     "addons": ["heroku-postgresql"],
-      "env": {
-    "TOKEN": {
-      "description": "Discord Bot Token",
-      "value": "TOKEN"
-    }
-  },
-    "environments":
-    {
-        "test":
-        {
-            "scripts":
-            {
-                "test-setup": "python manage.py collectstatic --noinput",
-                "test": "python manage.py test"
-            }
-        }
-    }
-}
